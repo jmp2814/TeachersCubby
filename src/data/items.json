@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Backpack",
+        "price": ,
+        "imgUrl": 
+    },
+    {
+        "id": 2,
+        "name": "Lunchbox",
+        "price": ,
+        "imgUrl": 
+    },
+    {
+        "id": 3,
+        "name": "WaterBottle",
+        "price": ,
+        "imgUrl": 
+    },
+    {
+        "id": 4,
+        "name": "Shoes",
+        "price": ,
+        "imgUrl": 
+    },
+    {
+        "id": 5,
+        "name": "Jacket",
+        "price": ,
+        "imgUrl": 
+    },
+    {
+        "id": 6,
+        "name": "NapMat",
+        "price": ,
+        "imgUrl": 
+    },
+]
